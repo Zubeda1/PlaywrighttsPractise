@@ -1,0 +1,305 @@
+{
+  "cookies": [
+    {
+      "name": "_csrf",
+      "value": "SYNQqxNXqCrAvp44nO0V_GqS",
+      "domain": "auth.dunelm.com",
+      "path": "/usernamepassword/login",
+      "expires": 1787395481.181695,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "flags_ni",
+      "value": "0",
+      "domain": "dunelm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "visitor_id",
+      "value": "a5a2feda-1e37-4c7c-b5a5-6136d050ae45",
+      "domain": ".dunelm.com",
+      "path": "/",
+      "expires": 1818088424.070445,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "flags_ni",
+      "value": "0",
+      "domain": "www.dunelm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "flags_ni",
+      "value": "0",
+      "domain": "images.dunelm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2026-08-12T10:44:37.463Z",
+      "domain": ".www.dunelm.com",
+      "path": "/",
+      "expires": 1818067477,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cc_essential",
+      "value": "1",
+      "domain": ".dunelm.com",
+      "path": "/",
+      "expires": 1818067477,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cc_performance",
+      "value": "1",
+      "domain": ".dunelm.com",
+      "path": "/",
+      "expires": 1818067477,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cc_functional",
+      "value": "1",
+      "domain": ".dunelm.com",
+      "path": "/",
+      "expires": 1818067477,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cc_targeting",
+      "value": "1",
+      "domain": ".dunelm.com",
+      "path": "/",
+      "expires": 1818067477,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "flags_emailFormPresent",
+      "value": "true",
+      "domain": "www.dunelm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "email_popup_returning_user",
+      "value": "1",
+      "domain": "www.dunelm.com",
+      "path": "/",
+      "expires": 1818067477,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "flags_emailPopupFired",
+      "value": "1",
+      "domain": "www.dunelm.com",
+      "path": "/",
+      "expires": 1786533277,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "did",
+      "value": "s%3Av0%3Aff9ba148-1077-4a02-bdfd-a74067a44466.OySfQh6IBLBGlYsr2xjiJpha3hhKLj3PGBOKE9trx0M",
+      "domain": "auth.dunelm.com",
+      "path": "/",
+      "expires": 1818089081.050326,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "did_compat",
+      "value": "s%3Av0%3Aff9ba148-1077-4a02-bdfd-a74067a44466.OySfQh6IBLBGlYsr2xjiJpha3hhKLj3PGBOKE9trx0M",
+      "domain": "auth.dunelm.com",
+      "path": "/",
+      "expires": 1818089081.05038,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "DAFkPn_HrzpXiT9dXzbvGNIDnP8G0gzFHFX71GH.11I-1786531480.959359-1.0.1.1-A1PKzY5nHYEklFdlIAqvniNvOglIc.m0c211gzwk1cIJguzfImL09_6fQ1qeiU0W5wDl0u7WuLcBIY1yTuolU1OYeLAaDZHItE6M1oLxqo1zjyJzRDzkb_bon0aBAb8k",
+      "domain": ".auth.dunelm.com",
+      "path": "/",
+      "expires": 1786533281.050403,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "split_temp_test",
+      "value": "original",
+      "domain": "auth.dunelm.com",
+      "path": "/",
+      "expires": 1794307481,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth0",
+      "value": "s%3AVS8P3MG-mVhvXxRGrbLl9958Nf0en017.qkW4CasVnkGecNp6ZUXrzkOhC4RVxqaJfPFFR17rZa8",
+      "domain": "auth.dunelm.com",
+      "path": "/",
+      "expires": 1789123483.999778,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "auth0_compat",
+      "value": "s%3AVS8P3MG-mVhvXxRGrbLl9958Nf0en017.qkW4CasVnkGecNp6ZUXrzkOhC4RVxqaJfPFFR17rZa8",
+      "domain": "auth.dunelm.com",
+      "path": "/",
+      "expires": 1789123483.999817,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_legacy_auth0.l1YJ5TpHwwD2ndvO1k4M5N84aTLAooFK.is.authenticated",
+      "value": "true",
+      "domain": "www.dunelm.com",
+      "path": "/",
+      "expires": 1789123484,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth0.l1YJ5TpHwwD2ndvO1k4M5N84aTLAooFK.is.authenticated",
+      "value": "true",
+      "domain": "www.dunelm.com",
+      "path": "/",
+      "expires": 1789123484,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=16ab0186-71bd-41b4-8029-5161a8e77d0a&rum=0&expire=1786532383811",
+      "domain": ".dunelm.com",
+      "path": "/",
+      "expires": 1818067483,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Wed+Aug+12+2026+11%3A44%3A44+GMT%2B0100+(British+Summer+Time)&version=202605.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a7271612-d222-4e14-8d6a-24454c395096&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1786531477579&geolocation=GB%3BENG&AwaitingReconsent=false",
+      "domain": ".www.dunelm.com",
+      "path": "/",
+      "expires": 1818067484,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dhe",
+      "value": "b936ccf73df2f803cc8791202d13e9cd85ab74ffcd8476df72b796dbf7c961f3",
+      "domain": "www.dunelm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "known_customer",
+      "value": "{%22first_name%22:%22zubeda%22}",
+      "domain": "www.dunelm.com",
+      "path": "/",
+      "expires": 1807526684,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.dunelm.com",
+      "localStorage": [
+        {
+          "name": "amigo-amigo-id",
+          "value": "{\"id\":\"eef77d18-86c4-46b5-b1b5-29e2e572b702\"}"
+        },
+        {
+          "name": "unleash:sessionId",
+          "value": "\"380612041\""
+        },
+        {
+          "name": "unleash:repoLastUpdateTimestamp",
+          "value": "{\"key\":\"8a30a0cf135fe249d9b5c8000d0f5247fe61d18cf2ee0b13f8c28467a026aedd\",\"timestamp\":1786531483893}"
+        },
+        {
+          "name": "amigo-amigo-id-ttl",
+          "value": "1818089084165"
+        },
+        {
+          "name": "amigo-amigo-session-id-ttl",
+          "value": "1786538684165"
+        },
+        {
+          "name": "unleash:repo",
+          "value": "[{\"name\":\"exp_similar_items_optimised_three\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"payload\":{\"type\":\"string\",\"value\":\"true\"},\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"dunationsV2\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_hf_desktop\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"mobile_basket_drawer\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_recs_others_pdp\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"cc_ipad_journey\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"favourites_on_basket\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_rspack\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"pdp_multi_sku_preselect\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_delivery_deficit\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_basket_redesign\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"use_google\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_google_serv_config\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"gift_card\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_live_video_chat_furniture\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"ltc_broader_basket\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_basket_redesign_mpos\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"taggstar\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"donation\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"use_seo_system_api\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"app_webview\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"datadog_replay_sampling\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"temporary_favourites_list\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_taggstar_treatment\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"reorder_conflicts\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_hf_mobile\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"pdp_tabbed_view_dweb\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_tabbed_view_reload\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_test_flag\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_atb_dweb\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"ltc_ibc\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"enable_pick_up_point\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"pdp_tabbed_view\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"new_basket_voucher_code\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_atb_plp\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"algolia_displayname_mapper\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"rollover_animation\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_content_mfe_homepage\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_goodgrowth_basket\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_storystream_test\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"checkout_cnc_improvements\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"availability_fulfilment_options\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"wasPriceHistory\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_test_flag_two\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_taggstar_treatment_v_two\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"ado_location_wall\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_dynamic_facets_search\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_unleash_test_one\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_similar_items_optimised_two\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_dps_use_epapi_search\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_save_for_later\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_checkout_mfe\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"payload\":{\"type\":\"string\",\"value\":\"false\"},\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"good_growth\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"autosuggestion_hits\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_atb_pdp\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"use_internal_display_name_mapper\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"checkout_popover_ui\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_atb_fbt_basket\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"payload\":{\"type\":\"string\",\"value\":\"true\"},\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_taggstar_plp_srp\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"voucher_code_popup\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"impression_data\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"internal_mapper\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_top_rated_carousel\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_devex_test_flag\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"mpos_gift_cards_camera_scan\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"klarna_pay_later_enabled\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"test_flexible_rollout\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_use_typo_handling\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_unleash_test_two\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"payload\":{\"type\":\"string\",\"value\":\"false\"},\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_boost_bury_rules_enabled\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"payload\":{\"type\":\"string\",\"value\":\"false\"},\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_skip_checkout_interstitial\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"payload\":{\"type\":\"string\",\"value\":\"false\"},\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_use_facet_limit\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"payload\":{\"type\":\"string\",\"value\":\"true\"},\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_disable_force_facets\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"payload\":{\"type\":\"string\",\"value\":\"true\"},\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_pdp_remove_grey_options\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_dynamic_facets_browse\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_tiles_enabled\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_enable_colour_swatches\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_basket_savings\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_alternate_catalog_branch\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_unleash_test_four\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_unleash_test_three\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"blue_build\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"new_header_ui\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_disruptor_carousel\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_similar_items_colour\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_pdp_atb_sale_saving\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_pdp_exposed_options\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"eSpotsOnSlp\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_sale_price_red_plp_srp\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_apple_pay_express\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_taggstar_sale\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"web_voucher_inventory_enabled_pdp\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_sticky_search\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"exp_known_customer\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"web_voucher_inventory_enabled_account\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"use_seo_system_data\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"test_display_name_mapper\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"myaccount_update_email\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"web_voucher_inventory_enabled_basket\",\"enabled\":true,\"variant\":{\"name\":\"control\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false},{\"name\":\"card_tokenisation\",\"enabled\":true,\"variant\":{\"name\":\"test\",\"enabled\":true,\"feature_enabled\":true,\"featureEnabled\":true},\"impressionData\":false}]"
+        },
+        {
+          "name": "ggt-experience-dicerolls",
+          "value": "{\"swimlane\":{\"variant\":98,\"rollout\":45},\"EXP_124_Inspirational_Hotspots\":{\"variant\":37,\"rollout\":17},\"EXP-166_Buying_Guides_Link\":{\"variant\":25,\"rollout\":82},\"EXP_130_Inspiration_2_0_Stories\":{\"variant\":13,\"rollout\":58},\"T94_Contact_us_page\":{\"variant\":80,\"rollout\":33},\"T102_winter_sale_optimisation_atb\":{\"variant\":74,\"rollout\":73},\"T105_coming_soon_at_PDP\":{\"variant\":26,\"rollout\":58},\"T113_save_for_later\":{\"variant\":65,\"rollout\":71},\"T117_mattress_finder\":{\"variant\":10,\"rollout\":25},\"T123_swatches_rollover_combo\":{\"variant\":43,\"rollout\":19},\"T121_hotspots_v1_5\":{\"variant\":79,\"rollout\":37},\"T125_compare_grid_2_0\":{\"variant\":60,\"rollout\":50},\"7361637805-pdp_7_0\":{\"variant\":29,\"rollout\":13},\"T130_search_improvements\":{\"variant\":8,\"rollout\":58},\"T122_pdp_37_0_brand_and_collaboration_information\":{\"variant\":63,\"rollout\":30},\"t132_image_ab\":{\"variant\":98,\"rollout\":87},\"T135_sticky_atb_rerun\":{\"variant\":67,\"rollout\":39},\"T136_plp_12_1_guided_filtering_iteration\":{\"variant\":89,\"rollout\":85},\"T137_header_depth_improvements\":{\"variant\":85,\"rollout\":47},\"T139_m2m_3_1_voucher_codes\":{\"variant\":12,\"rollout\":78},\"T129_store_stock_checker_iteration\":{\"variant\":83,\"rollout\":45},\"T140_header_depth_improvements_v2\":{\"variant\":95,\"rollout\":53},\"t143_pdp_landing_page_improvements\":{\"variant\":67,\"rollout\":70},\"T141_cut_out_vs_cameo_ab\":{\"variant\":15,\"rollout\":15},\"T124_carousels_v2\":{\"variant\":10,\"rollout\":66},\"T93_inspiration_3_0\":{\"variant\":61,\"rollout\":64},\"T148_customer_contact_button\":{\"variant\":22,\"rollout\":92},\"T144_fulfilment_radio_buttons\":{\"variant\":40,\"rollout\":77},\"Shaughn_Test_Experience\":{\"variant\":50,\"rollout\":29},\"T145_yinka_launch\":{\"variant\":86,\"rollout\":82},\"T149_geolocation_ireland\":{\"variant\":62,\"rollout\":37},\"T150_test_customer_reviews_furniture\":{\"variant\":84,\"rollout\":76},\"T146_oos_carousel_with_toast_message\":{\"variant\":76,\"rollout\":87},\"T151_search_improvements_v2\":{\"variant\":45,\"rollout\":57},\"T154_ai_summary_at_pdp\":{\"variant\":25,\"rollout\":2},\"T153_carousels_v3_mini_pdp\":{\"variant\":48,\"rollout\":88}}"
+        },
+        {
+          "name": "amigo-amigo-session-id",
+          "value": "{\"id\":\"68924ba7-6b2a-4a5f-9321-61baf6b9c873\"}"
+        },
+        {
+          "name": "dunelm-preferredStore",
+          "value": "{\"preferredStore\":null}"
+        },
+        {
+          "name": "amigo-amigo-store-id-ttl",
+          "value": "1818089084260"
+        },
+        {
+          "name": "amigo-amigo-store-id",
+          "value": "{\"id\":\"A54D89EC-D400-5B8A-900E-D8319DC78ADC\"}"
+        }
+      ]
+    }
+  ]
+}
