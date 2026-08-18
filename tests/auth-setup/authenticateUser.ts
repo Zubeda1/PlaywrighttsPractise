@@ -23,13 +23,13 @@ async function authenticateUser(user: User, domain: string) {
       timeout: 60_000,
       waitUntil: 'domcontentloaded',
     })
-    await page.waitForTimeout(5000)
+    await page.waitForTimeout(5000) // 5 sec
 
     // Handle any cookie notifications
     const cookieButton = page.getByRole('button', { name: 'Allow All' })
     if (await cookieButton.isVisible()) {
       await cookieButton.click()
-      await page.waitForTimeout(1000)
+      await page.waitForTimeout(1000) // 1 sec
     }
 
     // Try to close any open dialogs first

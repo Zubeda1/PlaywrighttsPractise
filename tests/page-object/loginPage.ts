@@ -1,10 +1,16 @@
-import { Page } from '@playwright/test'
+import { Page, Locator  } from '@playwright/test'
 
 export class LoginPage {
-    constructor(private page: Page) {}
+    readonly page: Page
+    readonly emailInput:Locator
+
+    constructor(page: Page) {
+        this.page = page
+        this.emailInput = page.getByLabel('Emial address')
+    }
 
     async loginViaIntersialPage(email: string, password: string) {
-        await this.page.getByLabel('Email address').fill(email)
+        this.emailInput.fill(email)
         await this.page.getByLabel('Password').fill(password)
         await this.page.getByRole('button', { name: 'Sign in' }).click()
         await this.page.waitForURL('**/account**')
