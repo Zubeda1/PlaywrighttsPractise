@@ -56,7 +56,7 @@ test.describe('testToDo WEBPAGE n Fill',() => {
     console.log('All checkboxes checked')
    })
 
-   test.only('forloop-dropdown all',async ({page}) => {
+   test('forloop-dropdown all',async ({page}) => {
     await page.goto('https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php')
     const dropdown = page.locator('#state');   // this is the <select> element
 
