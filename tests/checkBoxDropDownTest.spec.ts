@@ -39,7 +39,7 @@ test.describe('testToDo WEBPAGE n Fill',() => {
  test.describe('testcheckbox and dropdown Scenario', () => {
    test('forLoop-checkbox all',async({ page }) => {
     await page.goto('https://www.tutorialspoint.com/selenium/practice/selenium_automation_practice.php')
-    const checkboxes= await page.$$("input[type='checkbox']")
+    const checkboxes = await page.$$("input[type='checkbox']")
     console.log(`totalcheckboxes: ${checkboxes.length}`)
     
     for(let i=0;i<checkboxes.length;i++){

@@ -1,17 +1,19 @@
 {
-  "name": "playwrighttspractise",
+  "name": "playwrightpractise",
   "version": "1.0.0",
-  "description": "",
+  "description": "practise checkbox, dropdown and other selctors",
+  "license": "ISC",
+  "author": "zubeda shahnan",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "tests": "npx playwright test --ui"
+    "test": "npx playwright test --ui"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "devDependencies": {
-    "@playwright/test": "^1.62.1",
-    "@types/node": "^26.2.0"
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.0"
+  },
+  "dependencies": {
+    "playwright": "^1.63.0"
   }
 }
