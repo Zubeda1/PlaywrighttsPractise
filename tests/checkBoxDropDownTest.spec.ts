@@ -138,3 +138,66 @@ test.describe('testToDo WEBPAGE n Fill',() => {
   console.log('Lowest price:', lowestPrice);
   })
  })
+
+ test.describe('select radiobtn, checkBox and dropdown test for zanoo interview',( )=> {
+  test.beforeEach(async({page}) => {
+   await page.goto('https://rahulshettyacademy.com/AutomationPractice/')
+  })
+
+  test('click first radiobtn', async({page}) => {
+    //await page.goto('https://rahulshettyacademy.com/AutomationPractice/')
+    //this below 2 loctors worked
+    //const radio1 = await page.locator('input[value="radio1"][type="radio"]')
+    const radio1= await page.locator('label').filter({hasText:'Radio1'}).getByRole('radio')
+
+    await radio1.click()
+    await expect(radio1).toBeChecked()
+  })
+
+  test('try another way to click first Radio1 btn', async ({page}) =>{
+    const allRadioBtn = await page.$$('input[type="radio"]')
+
+    for(let i=0; i<allRadioBtn.length; i++){
+      const clickFirst = await allRadioBtn[0].click()
+      await expect(clickFirst).toBeTruthy
+
+    }
+
+  })
+
+  test('check all checkboxes',async({page})=>{
+    //const checkboxTable = await page.locator('Checkbox Example')
+    const checkAll = await page.locator('#checkbox-example').locator('input[type="checkbox"]')
+    const count = await checkAll.count()
+    console.log(`Checkbox count: ${count}`)
+    expect(count).toBeGreaterThan(0)
+
+    for(let i=0; i<count; i++){
+      const isChecked = await checkAll.nth(i).isChecked()
+      if(!isChecked){
+        await checkAll.nth(i).check()
+      }
+    }
+
+    for(let i=0; i<count; i++){
+      const isChecked = await checkAll.nth(i).isChecked()
+      expect(isChecked).toBe(true)
+    }
+  })
+
+  test('trying checkbox another way',async({page})=>{
+    const checkboxes= await page.$$('input[type="checkbox"]')
+    console.log('totalCheckBoxes:',checkboxes.length)
+    const getText = await page.locator('#checkbox-example')
+    const text = await getText.innerText()
+    console.log('Inner Text Of checkboxes:',text)
+    const count = await getText.count()
+    console.log('checkBox count:',count)
+
+    for(let i=0; i <count; i++ ){
+      const checkBox1 = await checkboxes[0].check()
+      await expect(checkBox1).toBe(true)
+    }
+
+  })
+})
